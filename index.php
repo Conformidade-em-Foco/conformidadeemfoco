@@ -4,6 +4,7 @@
 <html lang="pt-BR">
 <head>
 </head>
+<link rel="stylesheet" href="assets/css/teste.css">
 <body>
      <!-- Home Page -->
     <div id="home" class="page active">
